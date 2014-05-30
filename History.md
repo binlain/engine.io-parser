@@ -1,4 +1,19 @@
 
+1.0.5 / 2014-05-06
+==================
+
+ * fix range error
+
+1.0.4 / 2014-04-13
+==================
+
+ * fix `encodePayloadAsBinary` method encodes packets to base64
+
+1.0.3 / 2014-04-10
+==================
+
+ * Fix length calculation when encoding as binary [binlain]
+
 1.0.2 / 2014-03-16
 ==================
 
